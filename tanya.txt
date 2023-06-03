@@ -1,0 +1,30 @@
+1. Apakah baju ini tersedia dalam ukuran saya?
+2. Bagaimana model baju ini terlihat di tubuh?
+3. Apakah bahan pakaian ini nyaman digunakan?
+4. Bisakah saya mencoba pakaian ini sebelum membelinya?
+5. Apakah ada diskon atau promo khusus untuk pakaian ini?
+6. Apakah pakaian ini dapat dicuci dengan mesin atau harus dicuci secara manual?
+7. Apakah ada pilihan warna lain untuk pakaian ini?
+8. Apakah pakaian ini cocok untuk acara formal atau santai?
+9. Bagaimana kebijakan pengembalian jika pakaian ini tidak sesuai dengan harapan saya?
+10. Apakah ada aksesoris atau perlengkapan lain yang direkomendasikan untuk dipadukan dengan pakaian ini?
+11. Bagaimana perawatan pakaian ini? Apakah mudah dirawat?
+12. Apakah pakaian ini cocok untuk musim atau cuaca tertentu?
+13. Apakah ada garansi atau jaminan kualitas untuk pakaian ini?
+14. Apakah ada pilihan model atau gaya lain untuk pakaian ini?
+15. Apakah ada batasan dalam hal penggunaan atau pemakaian pakaian ini?
+16. Bagaimana kelebihan atau fitur khusus dari pakaian ini dibandingkan dengan yang lain?
+17. Apakah pakaian ini mengikuti tren fashion terkini?
+18. Bisakah Anda memberikan saran tentang bagaimana cara memadukan pakaian ini dengan item lain dalam lemari pakaian saya?
+19. Apakah pakaian ini memiliki lapisan dalam atau memerlukan pakaian dalam tertentu?
+20. Bagaimana pendapat Anda tentang kenyamanan dan kualitas pakaian ini berdasarkan pengalaman pelanggan sebelumnya?
+1. Bagaimana cara memilih pakaian yang sesuai dengan bentuk tubuh saya?
+2. Bisakah Anda memberikan saran tentang gaya atau model pakaian yang akan cocok dengan kepribadian saya?
+3. Apakah Anda punya rekomendasi untuk pakaian yang cocok untuk acara formal atau pesta?
+4. Bagaimana cara menciptakan tampilan yang stylish dan modis dengan pakaian yang sudah saya miliki?
+5. Saya ingin membangun sebuah lemari pakaian yang serba pas, apakah Anda bisa membantu saya dalam merencanakan itu?
+6. Apakah ada warna-warna tertentu yang akan membuat saya terlihat lebih cerah atau lebih rileks?
+7. Bagaimana cara mengenakan pakaian kasual dengan tetap terlihat chic dan modis?
+8. Saya ingin mengekspresikan gaya pribadi saya melalui pakaian, apa yang sebaiknya saya perhatikan?
+9. Bisakah Anda memberikan saran tentang cara memadukan aksesoris dengan pakaian saya untuk menciptakan tampilan yang lebih menarik?
+10. Bagaimana cara menyesuaikan pakaian saya dengan tren mode terkini tanpa harus mengganti seluruh koleksi pakaian saya?
